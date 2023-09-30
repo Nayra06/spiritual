@@ -1,4 +1,4 @@
 # spiritual
 This is first git repository.
 <br>
-Author-nayu
+Author-nayu (n06)
