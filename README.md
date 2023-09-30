@@ -1,3 +1,3 @@
 # spiritual
-This is first project on github.
+This is first git repository.
 Author-nayu
